@@ -1,0 +1,397 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="beb1275a-f818-485f-be0d-1679a0987ca7" name="Default Changelist" comment="首次提交">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/java8test/FanseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/java8test/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/java8test/Testfilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/java8test/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/java8test/dtdl/Dongtaidaili.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/java8test/dtdl/MainTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/java8test/dtdl/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/java8test/dtdl/TestImp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/java8test/dtdl/ThreadTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/java8test/gogogo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/java8test/lanjieqi/InterceptorConf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/java8test/lanjieqi/TestInterceptor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/java8test/main0101.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/java8test/main0105dfs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/java8test/main0105sdbl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/java8test/main0111.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/java8test/test11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/java8test/testdl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/java8test/testset.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/java8test/wqwq/Myservice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/java8test/wqwq/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/proxy/HelloService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/java8test/Java8testApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/java8test/Java8testApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/java8test/Java8testApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/example/java8test/Java8testApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/java8test/Java8testApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/java8test/Java8testApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/java8test/MainTest8$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/java8test/MainTest8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/example/java8test/Java8testApplicationTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/example/java8test/Java8testApplicationTests.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="1zysfyEJCwTEKa6xoJ94z3Pugvy" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager" selected="Application.ProxyMain">
+    <configuration name="MaxSubArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.java8test.suanfa.suzu.MaxSubArray" />
+      <module name="java8test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.java8test.suanfa.suzu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProxyMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.proxy.ProxyMain" />
+      <module name="java8test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.proxy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SearchBST" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.java8test.suanfa.erchashu.SearchBST" />
+      <module name="java8test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.java8test.suanfa.erchashu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main0111" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.java8test.main0111" />
+      <module name="java8test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.java8test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main116" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.java8test.main116" />
+      <module name="java8test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.java8test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Java8testApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="java8test" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.java8test.Java8testApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ProxyMain" />
+        <item itemvalue="Application.main116" />
+        <item itemvalue="Application.main0111" />
+        <item itemvalue="Application.MaxSubArray" />
+        <item itemvalue="Application.SearchBST" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="beb1275a-f818-485f-be0d-1679a0987ca7" name="Default Changelist" comment="" />
+      <created>1635131768796</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1635131768796</updated>
+      <workItem from="1635131769949" duration="5581000" />
+      <workItem from="1635210296742" duration="4026000" />
+      <workItem from="1635469269903" duration="2671000" />
+      <workItem from="1635861462281" duration="192000" />
+      <workItem from="1636164545244" duration="1134000" />
+      <workItem from="1636505433101" duration="3788000" />
+      <workItem from="1636632802481" duration="4413000" />
+      <workItem from="1636680356184" duration="3402000" />
+      <workItem from="1636860832170" duration="618000" />
+      <workItem from="1636957141820" duration="2738000" />
+      <workItem from="1640163040251" duration="3944000" />
+      <workItem from="1640225018498" duration="2306000" />
+      <workItem from="1640240088323" duration="15405000" />
+      <workItem from="1640482995122" duration="17346000" />
+      <workItem from="1640568792986" duration="4901000" />
+      <workItem from="1640738940116" duration="15085000" />
+      <workItem from="1640825688618" duration="8784000" />
+      <workItem from="1641004552514" duration="5528000" />
+      <workItem from="1641258156569" duration="18970000" />
+      <workItem from="1641345599132" duration="8463000" />
+      <workItem from="1641430346139" duration="13599000" />
+      <workItem from="1641534361005" duration="1337000" />
+      <workItem from="1641535747901" duration="14799000" />
+      <workItem from="1641864063144" duration="5200000" />
+      <workItem from="1641869502664" duration="1417000" />
+      <workItem from="1642057140896" duration="1176000" />
+      <workItem from="1642318436198" duration="914000" />
+      <workItem from="1642487586631" duration="406000" />
+      <workItem from="1644288559110" duration="1849000" />
+      <workItem from="1644804590499" duration="8000" />
+      <workItem from="1644928405514" duration="806000" />
+    </task>
+    <task id="LOCAL-00001" summary="首次提交">
+      <created>1637024059762</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1637024059762</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="首次提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="首次提交" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/java8test/test7/MainTest.java</url>
+          <line>11</line>
+          <properties>
+            <option name="lambda-ordinal" value="-1" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/java8test/test7/MainTest.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/java8test/test7/MainTest3.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/example/java8test/Java8testApplicationTests.java</url>
+          <line>118</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/example/java8test/Java8testApplicationTests.java</url>
+          <line>153</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/java8test/testset.java</url>
+          <line>157</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/java8test/testset.java</url>
+          <line>169</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/java8test/testset.java</url>
+          <line>108</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/java8test/testset.java</url>
+          <line>116</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/example/java8test/Java8testApplicationTests.java</url>
+          <line>160</line>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/java8test/testset.java</url>
+          <line>80</line>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/java8test/testdl.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/java8test/testset.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/java8test/testset.java</url>
+          <line>49</line>
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/java8test/test11.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/java8test/main0101.java</url>
+          <line>232</line>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/java8test/main0101.java</url>
+          <line>229</line>
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/java8test/main0101.java</url>
+          <line>217</line>
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/java8test/main0101.java</url>
+          <line>114</line>
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/java8test/main0101.java</url>
+          <line>54</line>
+          <option name="timeStamp" value="62" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/java8test/main0105dfs.java</url>
+          <line>81</line>
+          <option name="timeStamp" value="63" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/java8test/main0105sdbl.java</url>
+          <line>84</line>
+          <option name="timeStamp" value="64" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/java8test/main0101.java</url>
+          <line>84</line>
+          <option name="timeStamp" value="65" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/java8test/main0105sdbl.java</url>
+          <line>57</line>
+          <option name="timeStamp" value="66" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/java8test/suanfa/erchashu/CreatTreeNode.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="70" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/java8test/testset.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="74" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/java8test/suanfa/erchashu/HasPathSum.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="76" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/java8test/suanfa/erchashu/SearchBST.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="77" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/java8test/suanfa/erchashu/SearchBST.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="78" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/java8test/suanfa/suzu/MaxSubArray.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="81" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/java8test/main0111.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="84" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
